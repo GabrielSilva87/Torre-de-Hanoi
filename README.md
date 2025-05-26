@@ -2,7 +2,7 @@
 
 ## História 🃏
 
-* O desenvolvedor do jogo
+* O desenvolvedor do jogo Torre de Hanói, foi o matemático 
 
 ## Descrição ℹ
 
