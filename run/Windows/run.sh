@@ -5,3 +5,4 @@ npx create-react-app
 npm install --save typescript
 
 @types/react@types/react-dom@types/jest
+npx tsc--init
