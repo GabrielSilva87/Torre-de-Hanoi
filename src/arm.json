@@ -1,3 +1,1 @@
-const Project = {
-    version : 1.2
-}
+const Project;
