@@ -1,5 +1,7 @@
 # Torre de Hanói
 
+## História 🃏
+
 
 ## Descrição ℹ
 
@@ -10,5 +12,4 @@
 - Apenas um disco pode ser movido por vez.
 - Cada movimento consiste em pegar o disco do topo de uma das pilhas e colocá-lo em outra pilha.
 - Um disco só pode ser colocado em uma pilha vazia ou em cima de um disco maior.
-
 
