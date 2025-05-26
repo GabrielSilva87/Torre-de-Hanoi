@@ -36,7 +36,7 @@ Segundo Deus, quando eles terminarem o trabalho, a Torre de Brahma irá ruir e
 
 1 - Clone o repositório
     
-    git clone https://github.com/GabrielSilva87/Torre-de-Hanoi
+    git clone https://github.com/GabrielSilva87/Torre-de-Hanoi.git
    
 2 - Vá para a pasta Linux
 
@@ -58,3 +58,9 @@ Segundo Deus, quando eles terminarem o trabalho, a Torre de Brahma irá ruir e
 6 - Abra no navegador o link da porta determinada:
 
     localhost://3000
+
+### Windows 💻
+
+1 - Instale o node.js no site oficial:
+
+![Redirecionamento]()
