@@ -34,7 +34,7 @@ Segundo Deus, quando eles terminarem o trabalho, a Torre de Brahma irá ruir e
 
 ### Linux 🖥
 
-* Clone o repositório:
+* 1 - Clone o repositório
     
     git clone https://github.com/GabrielSilva87/Torre-de-Hanoi
     
