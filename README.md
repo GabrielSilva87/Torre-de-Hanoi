@@ -37,5 +37,8 @@ Segundo Deus, quando eles terminarem o trabalho, a Torre de Brahma irá ruir e
 1 - Clone o repositório
     
     git clone https://github.com/GabrielSilva87/Torre-de-Hanoi
-    
+   
+2 - Vá para a pasta Linux
+
+    cd run/Linux
     
