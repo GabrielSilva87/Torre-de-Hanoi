@@ -6,7 +6,9 @@
 
      ![png](https://clubes.obmep.org.br/blog/wp-content/uploads/2019/02/hanoi03.png)
    
-* O próprio criador do jogo elaborou o seguinte fato : “No começo dos tempos, Deus criou a Torre de Brahma, que contém três hastes de diamante, e colocou na primeira haste 64 discos de ouro maciço. Deus chamou seus sacerdotes e ordenou-lhes que transferissem todos os discos para a terceira haste, seguindo as regras acima descritas. Os sacerdotes, então, obedeceram e começaram o trabalho de remoção dos discos, dia e noite.
+* O próprio criador do jogo elaborou o seguinte fato (lenda): 
+
+“No começo dos tempos, Deus criou a Torre de Brahma, que contém três hastes de diamante, e colocou na primeira haste 64 discos de ouro maciço. Deus chamou seus sacerdotes e ordenou-lhes que transferissem todos os discos para a terceira haste, seguindo as regras acima descritas. Os sacerdotes, então, obedeceram e começaram o trabalho de remoção dos discos, dia e noite.
 Segundo Deus, quando eles terminarem o trabalho, a Torre de Brahma irá ruir e o mundo acabará…”
 ## Descrição ℹ
 
