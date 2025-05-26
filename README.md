@@ -63,4 +63,4 @@ Segundo Deus, quando eles terminarem o trabalho, a Torre de Brahma irá ruir e
 
 1 - Instale o node.js no site oficial:
 
-![Redirecionamento]()
+![Redirecionamento](nodejs.org)
