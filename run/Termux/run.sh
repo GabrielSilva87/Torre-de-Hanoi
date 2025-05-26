@@ -1,1 +1,2 @@
-npm install node
+pkg update && pkg upgrade
+pkg install node
