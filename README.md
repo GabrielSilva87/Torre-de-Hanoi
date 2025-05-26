@@ -2,6 +2,7 @@
 
 ## História 🃏
 
+* O desenvolvedor do jogo
 
 ## Descrição ℹ
 
