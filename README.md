@@ -55,6 +55,6 @@ Segundo Deus, quando eles terminarem o trabalho, a Torre de Brahma irá ruir e
 
     node server.js
 
-6 - Abra no navegador o link:
+6 - Abra no navegador o link da porta determinada:
 
-    localhost://600
+    localhost://3000
