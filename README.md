@@ -48,6 +48,5 @@ Segundo Deus, quando eles terminarem o trabalho, a Torre de Brahma irá ruir e
 
 4 - Retorne á pasta inicial
 
-    cd..
-
+    cd ..
     cd ..
