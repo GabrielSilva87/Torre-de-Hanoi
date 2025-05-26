@@ -1,4 +1,4 @@
 const Project = (
    'name' : "torre de hanói",
    'version' : 1.2.1,
-   'data' : 21.49)
+   'data' : 21.49);
