@@ -4,9 +4,7 @@
 
 * O desenvolvedor do jogo Torre de Hanói foi o matemático francês **Eduard Lucas (1842-1891)**
 
-<center>
-     ![png](https://clubes.obmep.org.br/blog/wp-content/uploads/2019/02/hanoi03.png)
-</center>
+![png](https://clubes.obmep.org.br/blog/wp-content/uploads/2019/02/hanoi03.png)
 
 ## Descrição ℹ
 
