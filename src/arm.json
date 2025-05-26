@@ -1,0 +1,10 @@
+const Project = 
+   [('name': "Torre de hanói"),
+    ['files' =  (
+           'main.js',
+           'gameLogic.js',
+           'server.js',)],
+     ['src' = (
+           'index.html',
+           'style.css')],
+    ('react' = 'main.tsx')]
