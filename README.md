@@ -2,7 +2,7 @@
 
 ## História 🃏
 
-* O desenvolvedor do jogo Torre de Hanói foi o matemático francês Eduard Lucas
+* O desenvolvedor do jogo Torre de Hanói foi o matemático francês Eduard Lucas (1842-1892)
 
 ## Descrição ℹ
 
