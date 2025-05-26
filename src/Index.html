@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Torre de Hanoi</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>Torre de Hanoi</h1>
+  <div id="controls" aria-label="Controles do jogo">
+    <label for="disk-count">Quantidade de discos:</label>
+    <input
+      type="number"
+      id="disk-count"
+      min="2"
+      max="12"
+      value="3"
+      aria-describedby="disk-count-desc"
+    />
+    <span id="disk-count-desc">(mín 2, máx 12)</span>
+    <button id="reset-btn" aria-label="Reiniciar jogo">Iniciar Jogo</button>
+  </div>
+  <div id="game-container" aria-label="Jogo Torre de Hanoi" role="main">
+    <div class="tower" id="tower-0" tabindex="0" aria-label="Torre 1">
+      <div class="pole"></div>
+    </div>
+    <div class="tower" id="tower-1" tabindex="0" aria-label="Torre 2">
+      <div class="pole"></div>
+    </div>
+    <div class="tower" id="tower-2" tabindex="0" aria-label="Torre 3">
+      <div class="pole"></div>
+    </div>
+  </div>
+  <div id="info">Movimentos: <span id="move-count">0</span></div>
+  <div id="message" role="alert" aria-live="polite"></div>
+
+  <script src="gameLogic.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
