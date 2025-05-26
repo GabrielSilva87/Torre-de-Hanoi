@@ -45,3 +45,9 @@ Segundo Deus, quando eles terminarem o trabalho, a Torre de Brahma irá ruir e
 3 - Exeucte o arquivo Shell
 
     sh run.sh
+
+4 - Retorne á pasta inicial
+
+    cd..
+
+    cd ..
