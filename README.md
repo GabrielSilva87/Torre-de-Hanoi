@@ -50,3 +50,11 @@ Segundo Deus, quando eles terminarem o trabalho, a Torre de Brahma irá ruir e
 
     cd ..
     cd ..
+
+5 - Abra o arquivo Server.js
+
+    node server.js
+
+6 - Abra no navegador o link:
+
+    localhost://600
