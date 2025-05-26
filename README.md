@@ -32,3 +32,7 @@ Segundo Deus, quando eles terminarem o trabalho, a Torre de Brahma irá ruir e
 
 ## Como Executar o Projeto 📲
 
+### Linux 🖥
+    ```
+         sh s
+    ```
