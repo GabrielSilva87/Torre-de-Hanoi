@@ -20,3 +20,15 @@ Segundo Deus, quando eles terminarem o trabalho, a Torre de Brahma irá ruir e
 - Cada movimento consiste em pegar o disco do topo de uma das pilhas e colocá-lo em outra pilha.
 - Um disco só pode ser colocado em uma pilha vazia ou em cima de um disco maior.
 
+## Tecnologias Utilizadas 👨‍💻
+
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- React
+- Shell
+- Node.js
+
+## Como Executar o Projeto 📲
+
