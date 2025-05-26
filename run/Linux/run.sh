@@ -5,3 +5,6 @@ sudo apt install -y nodejs
 node -v
 npm -v
 npm install -g create-react-app
+
+npm install --save typescript
+@types/react@types/react-dom@types/jest
